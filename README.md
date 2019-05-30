@@ -10,7 +10,7 @@ Source: https://www.nytimes.com/2018/06/21/nyregion/what-is-the-shsat-exam-and-w
 - Asians make up 62% of students at specialized high schools, even though 16% of public students are asian
 - Whites make up 24% of students at specialized highs schools, even though 15% of public students are white
 
-# Hypothesis: Before we begin doing any analysis, it's always best to have some ideas in mind to understand why underrepresented groups of students are not receiving the help they need. Here are a few ideas to explre the data
+### Hypothesis: Before we begin doing any analysis, it's always best to have some ideas in mind to understand why underrepresented groups of students are not receiving the help they need. Here are a few ideas to explre the data
 
 - Community VS Non-Community schools should have an impact to the type of students
 - Race can be a proxy for a student's need of help, this is very debatable
